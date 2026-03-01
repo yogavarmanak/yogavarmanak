@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Yogavarman A K</h1>
-<h3 align="center">Senior Data Engineer | Azure Data Platform Specialist | ETL Architect</h3>
+<h3 align="center">Data Engineer | Azure Data Platform Specialist | ETL Architect</h3>
 
 ---
 
